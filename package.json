@@ -1,6 +1,6 @@
 {
     "name": "nl.jorislodewijks.oocsi.csharp",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "displayName": "OOCSI C#",
     "description": "This is an C# port of the OOCSI library, which is a lightweight, low-latency, publish/subscribe messaging service for connecting interactive devices and media created by Mathias Funk at Eindhoven, Technical University of Eindhoven for the department of Industrial Design. This is a rough port of the original Java implementation which can be found at https://github.com/iddi/oocsi. This port was written by Joris Lodewijks, a student at the same university.",
     "documentationUrl": "https://github.com/ScrambledFox/oocsi-csharp",
